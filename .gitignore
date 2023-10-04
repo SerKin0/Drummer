@@ -1,3 +1,4 @@
 Python/
 .idea
 bot/misc/env.py
+/bot/misc/util.py
