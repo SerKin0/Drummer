@@ -6,7 +6,7 @@ __pycache__/
 
 # C extensions
 *.so
-
+bot/misc/env.py
 # Distribution / packaging
 .Python
 build/
